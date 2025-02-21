@@ -317,3 +317,12 @@ a {
     font-size: 20px;
     color:black;
 }
+
+
+.video{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 350px;
+
+}
